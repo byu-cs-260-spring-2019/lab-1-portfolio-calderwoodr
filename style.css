@@ -27,7 +27,7 @@
 #projects {
    display:none;
    height: 100px;
-   background-color: white;
+   background-color: greenyellow;
    color: black;
    margin:0;
    padding:0;
@@ -77,5 +77,11 @@ section {
     background-color: chocolate;
     color: white;
     text-indent: 50px;
-    
+    margin:0;
+    padding:0;
+}
+
+#work_list {
+    background-color: #E7955A;
+    display:none;
 }
